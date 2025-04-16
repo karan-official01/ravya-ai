@@ -1,4 +1,3 @@
 flask
 requests
 langdetect
-other-z
