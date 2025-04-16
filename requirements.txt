@@ -1,5 +1,4 @@
 flask
 requests
 langdetect
-other-library1
-other-library2
+other-z
